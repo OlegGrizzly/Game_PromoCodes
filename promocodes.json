@@ -11,6 +11,54 @@
               "amount": 1500
             }
           ]
+        },
+        "GOLD-500": {
+          "rewards": [
+            {
+              "type": "gold",
+              "amount": 500
+            }
+          ]
+        },
+        "BOOST-2X": {
+          "rewards": [
+            {
+              "type": "boost",
+              "effect": "double rewards",
+              "duration": "2 hours"
+            }
+          ]
+        }
+      }
+    },
+    "RPG": {
+      "id": "452310",
+      "name": "Realm of Heroes",
+      "promocodes": {
+        "XP-BOOST": {
+          "rewards": [
+            {
+              "type": "xp",
+              "amount": "2x",
+              "duration": "3 hours"
+            }
+          ]
+        },
+        "GOLD-1000": {
+          "rewards": [
+            {
+              "type": "gold",
+              "amount": 1000
+            }
+          ]
+        },
+        "WEAPON-SKIN": {
+          "rewards": [
+            {
+              "type": "item",
+              "name": "Legendary Sword Skin"
+            }
+          ]
         }
       }
     }
