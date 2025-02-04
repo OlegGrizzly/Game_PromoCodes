@@ -1,0 +1,18 @@
+{
+  "games": {
+    "TAB": {
+      "id": "350180",
+      "name": "Thorn and Ballons",
+      "promocodes": {
+        "MONEY_1500": {
+          "rewards": [
+            {
+              "type": "coins",
+              "amount": 1500
+            }
+          ]
+        }
+      }
+    }
+  }
+}
