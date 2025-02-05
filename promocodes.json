@@ -6,26 +6,16 @@
       "name": "Thorn and Ballons",
       "promocodes": [
         {
-          "code": "MONEY-1500",
+          "code": "TG-SUB-1000",
           "rewards": [
             {
               "type": "money",
-              "amount": 1500
-            }
-          ]
-        },
-        {
-          "code": "HINT-5",
-          "rewards": [
+              "amount": 1000
+            },
             {
               "type": "hint",
               "amount": 5
-            }
-          ]
-        },
-        {
-          "code": "MAGNET-5",
-          "rewards": [
+            },
             {
               "type": "magnet",
               "amount": 5
