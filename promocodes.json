@@ -9,33 +9,26 @@
           "code": "MONEY-1500",
           "rewards": [
             {
-              "type": "coins",
+              "type": "money",
               "amount": 1500
             }
           ]
         },
         {
-          "code": "GOLD-500",
+          "code": "HINT-5",
           "rewards": [
             {
-              "type": "gold",
-              "amount": 500
+              "type": "hint",
+              "amount": 5
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "452310",
-      "tag": "ROF",
-      "name": "Realm of Heroes",
-      "promocodes": [
+        },
         {
-          "code": "GOLD-1000",
+          "code": "MAGNET-5",
           "rewards": [
             {
-              "type": "gold",
-              "amount": 1000
+              "type": "magnet",
+              "amount": 5
             }
           ]
         }
