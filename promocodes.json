@@ -1,10 +1,12 @@
 {
-  "games": {
-    "TAB": {
+  "games": [
+    {
       "id": "350180",
+      "tag": "TAB",
       "name": "Thorn and Ballons",
-      "promocodes": {
-        "MONEY-1500": {
+      "promocodes": [
+        {
+          "code": "MONEY-1500",
           "rewards": [
             {
               "type": "coins",
@@ -12,55 +14,32 @@
             }
           ]
         },
-        "GOLD-500": {
+        {
+          "code": "GOLD-500",
           "rewards": [
             {
               "type": "gold",
               "amount": 500
             }
           ]
-        },
-        "BOOST-2X": {
-          "rewards": [
-            {
-              "type": "boost",
-              "effect": "double rewards",
-              "duration": "2 hours"
-            }
-          ]
         }
-      }
+      ]
     },
-    "RPG": {
+    {
       "id": "452310",
+      "tag": "ROF",
       "name": "Realm of Heroes",
-      "promocodes": {
-        "XP-BOOST": {
-          "rewards": [
-            {
-              "type": "xp",
-              "amount": "2x",
-              "duration": "3 hours"
-            }
-          ]
-        },
-        "GOLD-1000": {
+      "promocodes": [
+        {
+          "code": "GOLD-1000",
           "rewards": [
             {
               "type": "gold",
               "amount": 1000
             }
           ]
-        },
-        "WEAPON-SKIN": {
-          "rewards": [
-            {
-              "type": "item",
-              "name": "Legendary Sword Skin"
-            }
-          ]
         }
-      }
+      ]
     }
-  }
+  ]
 }
