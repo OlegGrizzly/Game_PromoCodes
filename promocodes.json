@@ -23,6 +23,30 @@
           ]
         }
       ]
+    },
+    {
+      "id": "410291",
+      "tag": "POP",
+      "name": "Thorn and Ballons - POP",
+      "promocodes": [
+        {
+          "code": "TG-SUB-1055",
+          "rewards": [
+            {
+              "type": "money",
+              "amount": 1000
+            },
+            {
+              "type": "hint",
+              "amount": 5
+            },
+            {
+              "type": "magnet",
+              "amount": 5
+            }
+          ]
+        }
+      ]
     }
   ]
 }
