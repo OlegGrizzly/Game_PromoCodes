@@ -47,6 +47,30 @@
           ]
         }
       ]
+    },
+    {
+      "id": "379654",
+      "tag": "DOP2",
+      "name": "DOP Eraser 2",
+      "promocodes": [
+        {
+          "code": "TG-SUB-1055",
+          "rewards": [
+            {
+              "type": "money",
+              "amount": 500
+            },
+            {
+              "type": "hint",
+              "amount": 5
+            },
+            {
+              "type": "skin",
+              "value": "Frog"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
